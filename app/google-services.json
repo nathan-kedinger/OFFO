@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115138757350",
+    "firebase_url": "https://offo-e8245-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "offo-e8245",
+    "storage_bucket": "offo-e8245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115138757350:android:bb2b5f2bfe83874969b127",
+        "android_client_info": {
+          "package_name": "com.example.offo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115138757350-6vv4mfcf2gfg3hqgvll65t4lvpdge23f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsaCLjMoWhQBGeB-4AsM-mDFpIwBLfj6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115138757350-6vv4mfcf2gfg3hqgvll65t4lvpdge23f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
